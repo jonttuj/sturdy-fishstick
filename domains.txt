@@ -4,3 +4,4 @@ kakamai.net
 rnicrosoftonline.net
 *.offica365.net
 offica365.net
+www.alko.fi
