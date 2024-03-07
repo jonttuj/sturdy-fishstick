@@ -1,2 +1,6 @@
 *.kakamai.net
-msteams.rnicrosoftonline.net
+kakamai.net
+*.rnicrosoftonline.net
+rnicrosoftonline.net
+*.offica365.net
+offica365.net
