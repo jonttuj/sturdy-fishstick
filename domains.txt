@@ -1,1 +1,1 @@
-kakamai.net
+*.kakamai.net
