@@ -1,1 +1,2 @@
 *.kakamai.net
+msteams.rnicrosoftonline.net
